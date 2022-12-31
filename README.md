@@ -24,7 +24,9 @@ Load the query results into a Pandas DataFrame, and set the index to the "date" 
 Sort the DataFrame values by "date".
 
 Plot the results by using the DataFrame plot method, as the following image shows:
-
+----
+![Image Link](https://github.com/nickjaycarr88/sqlalchemy-challenge-surfs-up/blob/main/Starter_Code/images/precipitation.png)
+----
 Use Pandas to print the summary statistics for the precipitation data.
 
 ## Station Analysis
