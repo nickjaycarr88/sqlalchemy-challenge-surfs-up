@@ -47,6 +47,9 @@ Filter by the station that has the greatest number of observations.
 Query the previous 12 months of TOBS data for that station.
 
 Plot the results as a histogram with bins=12, as the following image shows:
+----
+![Image Link](https://github.com/nickjaycarr88/sqlalchemy-challenge-surfs-up/blob/main/Starter_Code/images/tobs.png)
+----
 
 ## Part 2: Design Your Climate App
 ### Now that you’ve completed your initial analysis, you’ll design a Flask API based on the queries that you just developed. To do so, use Flask to create your routes as follows:
